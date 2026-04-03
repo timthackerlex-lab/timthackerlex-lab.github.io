@@ -1,3 +1,6 @@
 theme: minima
 title: Timothy Thacker
 description: Author | Writer | Projects
+
+header_pages:
+  - about.md
