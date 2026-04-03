@@ -5,12 +5,18 @@ title: Timothy Thacker
 
 ## Timothy Thacker
 
-**Writer. Thinker. Builder.**
+**Stories about the future, power, and what comes next.**
 
-I write stories and ideas centered around the future of humanity, artificial intelligence, and the forces shaping what comes next.
-
-This site is where I publish my thoughts, develop my work, and document the journey toward my upcoming book.
+I write fiction and ideas centered around artificial intelligence, control, and the direction humanity is heading.
 
 ---
 
-### Latest Writing
+### 📖 Upcoming Book
+
+A story about a man who begins to uncover what those in power already know about artificial intelligence — and what they plan to do with it.
+
+More details coming soon.
+
+---
+
+### ✍️ Latest Writing
