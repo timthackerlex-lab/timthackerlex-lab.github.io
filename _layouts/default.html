@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">{% seo %}<meta name="theme-color" content="#15241f"><link rel="stylesheet" href="{{ '/assets/author.css' | relative_url }}"></head>
+<body><a class="skip" href="#main">Skip to content</a>
+<header class="header"><a class="brand" href="{{ '/' | relative_url }}">Timothy Thacker<span>AUTHOR &amp; WRITER</span></a><nav aria-label="Main navigation">
+<a href="/"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+<a href="/about/"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
+<a href="/book/"{% if page.url == '/book/' %} aria-current="page"{% endif %}>Book</a></nav></header>
+<main id="main">{{ content }}</main>
+<footer class="footer"><span>© {{ 'now' | date: '%Y' }} Timothy Thacker</span><span>Stories about the future. Questions about the present.</span></footer></body></html>
