@@ -1,7 +1,8 @@
 theme: minima
 title: Timothy Thacker
-description: Author | Writer | Projects
-
+description: Fiction about artificial intelligence, power, and the human future.
+url: https://timthackerlex.com
+baseurl: ""
 header_pages:
   - about.md
-  - book.md
+  - Book.md
